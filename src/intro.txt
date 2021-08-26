@@ -1,4 +1,1 @@
-serializtion
 
-complex data --->native python---->json
-                    datatype
